@@ -1,6 +1,6 @@
 # tendik.py
 # Prokofiev Crater - Tendik Outpost Thermal Model
-# Author: [Your Name], Victoria University Year 1 Sem 1
+# Author: [Baron Mucurezi], Victoria University Year 1 Sem 1
 # Data source: MESSENGER mission, 100K in permanent shadow
 
 # Temperature in permanent shadow (real NASA number)
