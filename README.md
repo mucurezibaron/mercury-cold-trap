@@ -4,7 +4,7 @@ Prokofiev crater cold trap model - Dark Ice research
 ## Tendik Outpost, Mercury - Sol 87
 - Permanent shadow floor: 100K (-173C) - MESSENGER data
 - Ice stable below 110K, can mine
-- Part of novel Dark Ice (Amina Okello)
+- Part of novel Dark Ice (Baron Mucurezi)
 
 ## Author
 Year 1 Software Engineering, Victoria University, Kampala
